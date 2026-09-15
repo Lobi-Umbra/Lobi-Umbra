@@ -8,7 +8,7 @@ My languages are: Python, Javascript, C++, CSS and PHP.
 
 You can find me and my projects on [Instagram](https://www.instagram.com/lobi.umbra/), post everything that i learn. 
 
-# Fun things about me
+## Fun things about me
 - Addicted with Fighting and Horror Games
 - Love Coffee
 - I'm also a Newbie with Coding

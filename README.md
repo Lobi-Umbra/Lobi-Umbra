@@ -1,18 +1,22 @@
-## Hi there 👋
+# Hello World
 
-<!--
-# I'm Gabriel
+This is a **bold** and *italic* text example.
 
-print("A FullStack Dev in Study
+## Features
+- Live preview
+- Supports **bold**, *italic*, and `code`
+- Links: [W3Schools](https://www.w3schools.com)
 
-print("I make the Back and the Front Ending for Sites")
+### Code Block
+```
+function hello() {
+  console.log('Hello!');
+}
+```
 
-print("Use the languages: Python, JavaScript, C++, PHP and CSS")
+> This is a blockquote.
 
-print("I leave my Study and some Projects on Instagram")
-
-## Fun facts about me:
-Love coffee
-Addicted on Fighting and Horror Games
-Work with Pixel Art Comm
--->
+| Name | Age |
+|------|-----|
+| John | 30  |
+| Jane | 25  |

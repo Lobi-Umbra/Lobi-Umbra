@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 <!--
-I'm Gabriel
+print("I'm Gabriel")
 
-A FullStack Dev in Study
+print("A FullStack Dev in Study")
 
-I make the Back and the Front Ending for Sites
+print("I make the Back and the Front Ending for Sites")
 
-Use the languages: Python, JavaScript, C++, PHP and CSS
+print("Use the languages: Python, JavaScript, C++, PHP and CSS")
 
-I leave my Study and some Projects on Instagram
+print("I leave my Study and some Projects on Instagram")
 
 ## Fun facts about me:
 Love coffee

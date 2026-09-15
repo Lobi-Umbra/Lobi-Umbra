@@ -10,7 +10,7 @@ You can find me and my projects on [Instagram](https://www.instagram.com/lobi.um
 
 # Fun things about me
 - Addicted with Fighting and Horror Games
-- Love Coffe
+- Love Coffee
 - I'm also a Newbie with Coding
 - I draw Pixelart and make Comm
 

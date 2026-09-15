@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**Lobi-Umbra/Lobi-Umbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel
 
-Here are some ideas to get you started:
+A FullStack Dev in Study
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I make the Back and the Front Ending for Sites
+
+Use the languages: Python, JavaScript, C++, PHP and CSS
+
+I leave my Study and some Projects on Instagram
+
+## Fun facts about me:
+Love coffee
+Addicted on Fighting and Horror Games
+Work with Pixel Art Comm
 -->
